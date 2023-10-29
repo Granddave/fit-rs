@@ -11,16 +11,16 @@ engineering.
 
 Here the Doge is converted.
 
-![Input](example/doge.jpg)
-![Output](example/doge.jpg.png)
+<img src="example/doge.jpg" alt="Doge" style="display:inline-block" width="400"/>
+<img src="example/doge.jpg.png" alt="Output" style="display:inline-block" width="400"/>
 
 #### Ascii
 
 Here [main.rs](src/main.rs) is converted to an image.
 
-![Output](example/main.rs.png)
+<img src="example/main.rs.png" alt="Doge" style="display:inline-block" width="400"/>
 
 ## Inspiration and references
 
-- https://www.youtube.com/watch?v=AUWxl0WdiNI
-- https://www.youtube.com/watch?v=4bM3Gut1hIk
+- [Tsoding Daily - Reverse Engineering Data Files](https://www.youtube.com/watch?v=AUWxl0WdiNI) (Youtube)
+- [Adrian Crenshaw - 4 2 1 Christopher Domas The future of RE Dynamic Binary Visualization](https://www.youtube.com/watch?v=4bM3Gut1hIk) (Youtube)
